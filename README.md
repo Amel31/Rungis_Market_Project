@@ -1,6 +1,6 @@
 # Rungis_Market_Project
 
-Synopsis
+Synopsis :
 
 This code simulates the functionning of restaurants (with random opening hours), its supply process and the process of serving its clients. The restaurant can supply itself during the opening hours of the Rungis Market. With the ingredients bought at the market the restaurant is able to make recipes. Each client, when he is hungry, can ask for any (random) recipe, if it is not available he can ask for another one. If there is no recipe available (i.e. no ingredients left), the client can go to another restaurant.
 
@@ -9,7 +9,7 @@ This repository contains the edition of the open-source Node.js program. Node.js
 The homepage of node.js is https://nodejs.org/en/download/.
 
 
-Installation:
+Installation :
 
 Git clone https://github.com/Amel31/Rungis_Market_Project.git
 
@@ -18,7 +18,7 @@ Npm installer
 Npm start
 
 
-Code Explanations
+Code Explanations :
 
 Our project contains six files, we are going to explain what we did in each file. 
 
