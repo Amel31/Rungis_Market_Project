@@ -9,6 +9,15 @@ This repository contains the edition of the open-source Node.js program. Node.js
 The homepage of node.js is https://nodejs.org/en/download/.
 
 
+Installation:
+
+Git clone https://github.com/Amel31/Rungis_Market_Project.git
+
+Npm installer
+
+Npm start
+
+
 Code Explanations
 
 Our project contains six files, we are going to explain what we did in each file. 
